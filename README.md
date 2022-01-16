@@ -2,7 +2,7 @@
  
 # Bienvenue sur ClassicSnake
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aiola13)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aiola13.visitor-badge)
 ![Files](https://img.shields.io/github/directory-file-count/Aiola13/ClassicSnake?style=flat-square)
 ![Size](https://img.shields.io/github/repo-size/Aiola13/ClassicSnake?style=flat-square)
 
@@ -20,10 +20,10 @@ J'ai créé tout d'abord ce jeu dans le cadre des cours que je donne et égaleme
 
 ATTENTION ... j'utilise pour ce jeu :
 
-| un éditeur de code            | [Visual Studio Code](https://code.visualstudio.com)  |
-| ----------------------------- | --------------------------------------------------- |
-| un deuxième éditeur de code    | [Rider from JetBrains](https://www.jetbrains.com/fr-fr/rider/)                                           |
-| Unity  | [Version LTS 2020.3.24f1](https://unity3d.com/fr/unity/qa/lts-releases)                                  |
+| un éditeur de code          | [Visual Studio Code](https://code.visualstudio.com)                     |
+| --------------------------- | ----------------------------------------------------------------------- |
+| un deuxième éditeur de code | [Rider from JetBrains](https://www.jetbrains.com/fr-fr/rider/)          |
+| Unity                       | [Version LTS 2020.3.24f1](https://unity3d.com/fr/unity/qa/lts-releases) |
 
 Et bien sur votre cerveau 🧠 !!!
 
