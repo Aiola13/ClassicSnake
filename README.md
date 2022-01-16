@@ -3,8 +3,9 @@
 # Bienvenue sur ClassicSnake
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aiola13.visitor-badge)
-![Files](https://img.shields.io/github/directory-file-count/Aiola13/ClassicSnake?style=flat-square)
+![Files](https://shields-staging.herokuapp.com/github/directory-file-count/aiola13/ClassicSnake?style=flat-square)
 ![Size](https://img.shields.io/github/repo-size/Aiola13/ClassicSnake?style=flat-square)
+
 
 <p><img width="1000" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></p>
 
